@@ -1,2 +1,2 @@
 # designpattern
-设计模式实力
+设计模式实例
